@@ -2,7 +2,7 @@
  * This puts function prints without a new line character
  */
 
-#include <studio.h>
+#include <stdio.h>
 
 /**
  * main - block code
