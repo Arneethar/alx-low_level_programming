@@ -10,6 +10,7 @@
  * main - Writing lowercase letter
  * using the for command
  * using putchar function
+ * Return: 0
  */
 int main(void)
 {
