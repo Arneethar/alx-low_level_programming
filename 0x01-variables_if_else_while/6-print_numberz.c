@@ -1,16 +1,9 @@
-/*
- * A script that writes all single digits of
- * Base 10 starting from 0 and uses
- * only two putchar
- */
-
-
-
-
 #include <stdio.h>
 /**
- * Main - Code block
+ * main - Code block
+ * Description: Print all numbers of base 10 starting with 0
  * This code works with only putchar
+ * You can use putchar twice
  * Return: 0
  */
 int main(void)
