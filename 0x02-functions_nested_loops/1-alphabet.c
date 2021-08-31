@@ -1,6 +1,13 @@
+/*
+ * File: 1-alphabet.c
+ * printing the alphabet in lower case
+ */
+
 #include "main.h"
+
 /**
- * main - printing alphabet in lowercase
+ * print_alphabet - printing alphabet in lowercase
+ * This function is void
  * Return: 0
  */
 void print_alphabet(void)
