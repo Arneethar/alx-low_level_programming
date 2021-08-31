@@ -1,7 +1,7 @@
 /*
  * File :0-holberton.c
  */
-#include "holberton.h"
+#include "main.h"
 
 /**
  * main - Prints "Holberton" using putchar
