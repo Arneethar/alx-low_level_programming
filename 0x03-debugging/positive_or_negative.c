@@ -1,10 +1,8 @@
-#include "main.h"
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
 /**
- * positive_or_negative - main block
- * @i: number to use
+ * main - main block
  * Description: Get a random number and print the number
  * and if it is positive, negative, or zero
  * Return: 1
