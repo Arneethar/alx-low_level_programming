@@ -1,6 +1,3 @@
-/*
- * Checking for upper case characters
- */
 #include "main.h"
 #include <stdio.h>
 /**
