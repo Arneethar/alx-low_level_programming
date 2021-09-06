@@ -1,0 +1,1 @@
+All you need to know on pointers, array and strings
