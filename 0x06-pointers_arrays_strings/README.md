@@ -1,0 +1,1 @@
+More knowledge on arrays, functions and strings
