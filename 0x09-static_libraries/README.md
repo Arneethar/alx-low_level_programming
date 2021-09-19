@@ -1,1 +1,1 @@
-STATIC LIBRARY
+STATIC LIBRARY for all my made functions 
