@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * list_len : returns the number of elements in a list
+ * list_len - returns the number of elements in a list
  * @h: head of the list
  * Return: number of elements.
  */
